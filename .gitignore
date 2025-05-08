@@ -1,0 +1,25 @@
+node_modules/
+
+# Next.js build output
+.next/
+out/
+
+# Production build
+build/
+
+# Cache files
+.turbo/
+.cache/
+
+# Logs
+*.log
+next-debug.log
+
+# Environment variables
+.env
+.env.*
+!.env.example
+
+# System files
+.DS_Store
+Thumbs.db
